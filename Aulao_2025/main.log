@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.1)  13 NOV 2025 17:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.1)  13 NOV 2025 17:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -744,10 +744,6 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 \RaggedRightParindent=\skip77
 \JustifyingParindent=\skip78
 )
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 31.
-
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count338
@@ -920,62 +916,64 @@ ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./main.nav)
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-43.
+49.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 49.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
 )
 <imagens/novo_logo.png, id=19, 513.92pt x 197.73875pt>
 File: imagens/novo_logo.png Graphic file (type png)
 <use imagens/novo_logo.png>
 Package pdftex.def Info: imagens/novo_logo.png  used on input line 49.
 (pdftex.def)             Requested size: 171.14764pt x 65.8514pt.
- [1
+
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
 dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-su
-per-ts1.enc} <./imagens/novo_logo.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
-
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 60.
-
-(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-[2
+per-ts1.enc} <./imagens/novo_logo.png>] [2
 
 ]
-<imagens/enem 2013.png, id=53, 364.36125pt x 464.73625pt>
+<imagens/enem 2013.png, id=93, 364.36125pt x 464.73625pt>
 File: imagens/enem 2013.png Graphic file (type png)
 <use imagens/enem 2013.png>
 Package pdftex.def Info: imagens/enem 2013.png  used on input line 81.
 (pdftex.def)             Requested size: 143.76485pt x 183.3667pt.
  [3
 
- <./imagens/enem 2013.png>] [4
+ <./imagens/enem 2013.png>]
+[4
 
 ] [5
 
 ]
-<imagens/enem-ppl-2019.png, id=82, 392.46625pt x 121.45375pt>
+<imagens/enem-ppl-2019.png, id=183, 392.46625pt x 121.45375pt>
 File: imagens/enem-ppl-2019.png Graphic file (type png)
 <use imagens/enem-ppl-2019.png>
 Package pdftex.def Info: imagens/enem-ppl-2019.png  used on input line 117.
 (pdftex.def)             Requested size: 196.23264pt x 60.72672pt.
  [6
 
- <./imagens/enem-ppl-2019.png>]
-[7
+ <./imagens/enem-ppl-2019.png>] [7
 
 ] [8
 
@@ -984,7 +982,7 @@ Package pdftex.def Info: imagens/enem-ppl-2019.png  used on input line 117.
 ] [10
 
 ]
-<imagens/uea-2015.png, id=131, 305.14pt x 301.125pt>
+<imagens/uea-2015.png, id=333, 305.14pt x 301.125pt>
 File: imagens/uea-2015.png Graphic file (type png)
 <use imagens/uea-2015.png>
 Package pdftex.def Info: imagens/uea-2015.png  used on input line 183.
@@ -992,7 +990,7 @@ Package pdftex.def Info: imagens/uea-2015.png  used on input line 183.
  [11
 
  <./imagens/uea-2015.png>]
-<imagens/uea-macro-2017(2).png, id=142, 457.71pt x 400.49625pt>
+<imagens/uea-macro-2017(2).png, id=364, 457.71pt x 400.49625pt>
 File: imagens/uea-macro-2017(2).png Graphic file (type png)
 <use imagens/uea-macro-2017(2).png>
 Package pdftex.def Info: imagens/uea-macro-2017(2).png  used on input line 205.
@@ -1003,7 +1001,7 @@ Package pdftex.def Info: imagens/uea-macro-2017(2).png  used on input line 205.
  <./imagens/uea-macro-2017(2).png>] [13
 
 ]
-<imagens/IFPE 2019.png, id=163, 508.90125pt x 371.3875pt>
+<imagens/IFPE 2019.png, id=426, 508.90125pt x 371.3875pt>
 File: imagens/IFPE 2019.png Graphic file (type png)
 <use imagens/IFPE 2019.png>
 Package pdftex.def Info: imagens/IFPE 2019.png  used on input line 225.
@@ -1019,7 +1017,7 @@ Overfull \vbox (52.59035pt too high) detected at line 225
 ] [16
 
 ]
-<imagens/q20.png, id=193, 466.74374pt x 391.4625pt>
+<imagens/q20.png, id=516, 466.74374pt x 391.4625pt>
 File: imagens/q20.png Graphic file (type png)
 <use imagens/q20.png>
 Package pdftex.def Info: imagens/q20.png  used on input line 270.
@@ -1031,7 +1029,7 @@ Overfull \vbox (4.47774pt too high) detected at line 270
 [17
 
  <./imagens/q20.png>]
-<imagens/Unifor-CE.png, id=204, 512.91624pt x 445.665pt>
+<imagens/Unifor-CE.png, id=546, 512.91624pt x 445.665pt>
 File: imagens/Unifor-CE.png Graphic file (type png)
 <use imagens/Unifor-CE.png>
 Package pdftex.def Info: imagens/Unifor-CE.png  used on input line 292.
@@ -1057,11 +1055,11 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FE195838969E5207F3371175C986F8B1;86.
  ) 
 Here is how much of TeX's memory you used:
- 23038 strings out of 474222
- 442833 string characters out of 5748734
- 1938975 words of memory out of 5000000
- 44769 multiletter control sequences out of 15000+600000
- 571071 words of font info for 68 fonts, out of 8000000 for 9000
+ 23049 strings out of 474222
+ 443090 string characters out of 5748734
+ 1940975 words of memory out of 5000000
+ 44779 multiletter control sequences out of 15000+600000
+ 572842 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,16n,123p,811b,938s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
@@ -1072,10 +1070,10 @@ ts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-s
 uper/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></
 usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/font
 s/type1/public/cm-super/sfsx1095.pfb>
-Output written on main.pdf (18 pages, 339080 bytes).
+Output written on main.pdf (18 pages, 359065 bytes).
 PDF statistics:
- 269 PDF objects out of 1000 (max. 8388607)
- 168 compressed objects within 2 object streams
+ 630 PDF objects out of 1000 (max. 8388607)
+ 526 compressed objects within 6 object streams
  38 named destinations out of 1000 (max. 500000)
  97 words of extra memory for PDF output out of 10000 (max. 10000000)
 
