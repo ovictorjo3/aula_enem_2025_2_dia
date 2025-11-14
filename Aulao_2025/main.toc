@@ -1,3 +1,7 @@
 \babel@toc {brazil}{}\relax 
 \beamer@sectionintoc {1}{Questões - Letícia}{2}{0}{1}
-\beamer@sectionintoc {2}{Questões - Joao Victor}{2}{0}{2}
+\beamer@sectionintoc {2}{Questões - Joao Victor}{3}{0}{2}
+\beamer@sectionintoc {3}{Função afim}{7}{0}{3}
+\beamer@sectionintoc {4}{Função Quadrática}{13}{0}{4}
+\beamer@sectionintoc {5}{Estatistica}{17}{0}{5}
+\beamer@sectionintoc {6}{Geometria Plana}{22}{0}{6}
