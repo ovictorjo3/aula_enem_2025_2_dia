@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.1)  13 NOV 2025 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.6.1)  13 NOV 2025 23:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -950,129 +950,203 @@ Package pdftex.def Info: imagens/novo_logo.png  used on input line 50.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/
 dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-su
-per-ts1.enc} <./imagens/novo_logo.png>] [2
+per-ts1.enc} <./imagens/novo_logo.png>]
+<imagens/cadeiras.jpeg, id=57, 374.39874pt x 247.92625pt>
+File: imagens/cadeiras.jpeg Graphic file (type jpg)
+<use imagens/cadeiras.jpeg>
+Package pdftex.def Info: imagens/cadeiras.jpeg  used on input line 60.
+(pdftex.def)             Requested size: 205.37926pt x 136.00424pt.
+ [2
 
-] [3
+ <./imagens/cadeiras.jpeg>]
+[3
 
-] [4
+]
+<imagens/tanque.jpeg, id=76, 699.61375pt x 157.58875pt>
+File: imagens/tanque.jpeg Graphic file (type jpg)
+<use imagens/tanque.jpeg>
+Package pdftex.def Info: imagens/tanque.jpeg  used on input line 84.
+(pdftex.def)             Requested size: 273.83728pt x 61.68298pt.
+ [4
 
-] [5
+ <./imagens/tanque.jpeg>] [5
 
 ] [6
 
+] [7
+
+] [8
+
 ]
-<imagens/enem_mochila.png, id=140, 417.56pt x 120.45pt>
-File: imagens/enem_mochila.png Graphic file (type png)
-<use imagens/enem_mochila.png>
-Package pdftex.def Info: imagens/enem_mochila.png  used on input line 100.
-(pdftex.def)             Requested size: 208.77948pt x 60.22484pt.
- [7
-
- <./imagens/enem_mochila.png>]
-File: imagens/enem_mochila.png Graphic file (type png)
-<use imagens/enem_mochila.png>
-Package pdftex.def Info: imagens/enem_mochila.png  used on input line 125.
-(pdftex.def)             Requested size: 229.65869pt x 66.2477pt.
-
-Overfull \hbox (24.27943pt too wide) in paragraph at lines 125--125
- [][] 
+Underfull \hbox (badness 1728) in paragraph at lines 166--166
+\T1/cmss/m/n/10.95 du-ção mun-dial de eta-nol seja a
  []
 
-[8
 
-]
-<imagens/enem2024-receitas.png, id=162, 405.515pt x 365.365pt>
-File: imagens/enem2024-receitas.png Graphic file (type png)
-<use imagens/enem2024-receitas.png>
-Package pdftex.def Info: imagens/enem2024-receitas.png  used on input line 134.
-
-(pdftex.def)             Requested size: 154.09729pt x 138.84013pt.
-
-Overfull \vbox (5.12834pt too high) detected at line 134
+Overfull \vbox (33.25807pt too high) detected at line 166
  []
 
 [9
 
- <./imagens/enem2024-receitas.png>]
-File: imagens/enem2024-receitas.png Graphic file (type png)
-<use imagens/enem2024-receitas.png>
-Package pdftex.def Info: imagens/enem2024-receitas.png  used on input line 158.
-
-(pdftex.def)             Requested size: 182.48006pt x 164.41272pt.
- [10
+] [10
 
 ] [11
 
 ] [12
 
-] [13
+]
+Underfull \hbox (badness 1142) in paragraph at lines 240--240
+\T1/cmss/m/n/10.95 45.000 in-gres-sos ven-di-dos. Esse
+ []
+
+[13
 
 ]
-<imagens/enem 2013.png, id=214, 364.36125pt x 464.73625pt>
-File: imagens/enem 2013.png Graphic file (type png)
-<use imagens/enem 2013.png>
-Package pdftex.def Info: imagens/enem 2013.png  used on input line 213.
-(pdftex.def)             Requested size: 143.76485pt x 183.3667pt.
+<imagens/insulina.jpeg, id=171, 302.12875pt x 195.73125pt>
+File: imagens/insulina.jpeg Graphic file (type jpg)
+<use imagens/insulina.jpeg>
+Package pdftex.def Info: imagens/insulina.jpeg  used on input line 250.
+(pdftex.def)             Requested size: 171.14764pt x 110.87506pt.
  [14
 
- <./imagens/enem 2013.png>] [15
+ <./imagens/insulina.jpeg>]
+Underfull \hbox (badness 3049) in paragraph at lines 276--276
+\T1/cmss/m/n/10.95 se a uni-dade de in-su-lina como
+ []
 
-] [16
-
-] [17
+[15
 
 ]
-<imagens/enem2024-umidade.png, id=252, 408.52625pt x 119.44624pt>
+<imagens/carrinho.jpeg, id=191, 208.78pt x 167.62625pt>
+File: imagens/carrinho.jpeg Graphic file (type jpg)
+<use imagens/carrinho.jpeg>
+Package pdftex.def Info: imagens/carrinho.jpeg  used on input line 286.
+(pdftex.def)             Requested size: 136.91603pt x 109.93282pt.
+ [16
+
+ <./imagens/carrinho.jpeg>] [17
+
+] [18
+
+] [19
+
+] [20
+
+] [21
+
+]
+<imagens/enem_mochila.png, id=283, 417.56pt x 120.45pt>
+File: imagens/enem_mochila.png Graphic file (type png)
+<use imagens/enem_mochila.png>
+Package pdftex.def Info: imagens/enem_mochila.png  used on input line 335.
+(pdftex.def)             Requested size: 208.77948pt x 60.22484pt.
+ [22
+
+ <./imagens/enem_mochila.png>]
+File: imagens/enem_mochila.png Graphic file (type png)
+<use imagens/enem_mochila.png>
+Package pdftex.def Info: imagens/enem_mochila.png  used on input line 360.
+(pdftex.def)             Requested size: 229.65869pt x 66.2477pt.
+
+Overfull \hbox (24.27943pt too wide) in paragraph at lines 360--360
+ [][] 
+ []
+
+[23
+
+]
+<imagens/enem2024-receitas.png, id=303, 405.515pt x 365.365pt>
+File: imagens/enem2024-receitas.png Graphic file (type png)
+<use imagens/enem2024-receitas.png>
+Package pdftex.def Info: imagens/enem2024-receitas.png  used on input line 369.
+
+(pdftex.def)             Requested size: 154.09729pt x 138.84013pt.
+
+Overfull \vbox (5.12834pt too high) detected at line 369
+ []
+
+[24
+
+ <./imagens/enem2024-receitas.png>]
+File: imagens/enem2024-receitas.png Graphic file (type png)
+<use imagens/enem2024-receitas.png>
+Package pdftex.def Info: imagens/enem2024-receitas.png  used on input line 393.
+
+(pdftex.def)             Requested size: 182.48006pt x 164.41272pt.
+ [25
+
+] [26
+
+] [27
+
+] [28
+
+]
+<imagens/enem 2013.png, id=356, 364.36125pt x 464.73625pt>
+File: imagens/enem 2013.png Graphic file (type png)
+<use imagens/enem 2013.png>
+Package pdftex.def Info: imagens/enem 2013.png  used on input line 448.
+(pdftex.def)             Requested size: 143.76485pt x 183.3667pt.
+ [29
+
+ <./imagens/enem 2013.png>] [30
+
+] [31
+
+] [32
+
+]
+<imagens/enem2024-umidade.png, id=395, 408.52625pt x 119.44624pt>
 File: imagens/enem2024-umidade.png Graphic file (type png)
 <use imagens/enem2024-umidade.png>
-Package pdftex.def Info: imagens/enem2024-umidade.png  used on input line 264.
+Package pdftex.def Info: imagens/enem2024-umidade.png  used on input line 499.
 (pdftex.def)             Requested size: 204.26262pt x 59.72296pt.
- [18
+ [33
 
  <./imagens/enem2024-umidade.png>]
 File: imagens/enem2024-umidade.png Graphic file (type png)
 <use imagens/enem2024-umidade.png>
-Package pdftex.def Info: imagens/enem2024-umidade.png  used on input line 288.
+Package pdftex.def Info: imagens/enem2024-umidade.png  used on input line 523.
 (pdftex.def)             Requested size: 204.26262pt x 59.72296pt.
- [19
+ [34
 
 ]
-<imagens/enem2024-contratos.png, id=273, 405.515pt x 251.94125pt>
+<imagens/enem2024-contratos.png, id=415, 405.515pt x 251.94125pt>
 File: imagens/enem2024-contratos.png Graphic file (type png)
 <use imagens/enem2024-contratos.png>
-Package pdftex.def Info: imagens/enem2024-contratos.png  used on input line 298
+Package pdftex.def Info: imagens/enem2024-contratos.png  used on input line 533
 .
 (pdftex.def)             Requested size: 202.75699pt x 125.9703pt.
 
-Overfull \vbox (9.25851pt too high) detected at line 298
+Overfull \vbox (9.25851pt too high) detected at line 533
  []
 
-[20
+[35
 
  <./imagens/enem2024-contratos.png>]
 File: imagens/enem2024-contratos.png Graphic file (type png)
 <use imagens/enem2024-contratos.png>
-Package pdftex.def Info: imagens/enem2024-contratos.png  used on input line 321
+Package pdftex.def Info: imagens/enem2024-contratos.png  used on input line 556
 .
 (pdftex.def)             Requested size: 202.75699pt x 125.9703pt.
- [21
+ [36
 
-] [22
+] [37
 
 ]
-<imagens/enem_2013_sitio.png, id=302, 545.03625pt x 253.94875pt>
+<imagens/enem_2013_sitio.png, id=445, 545.03625pt x 253.94875pt>
 File: imagens/enem_2013_sitio.png Graphic file (type png)
 <use imagens/enem_2013_sitio.png>
-Package pdftex.def Info: imagens/enem_2013_sitio.png  used on input line 347.
+Package pdftex.def Info: imagens/enem_2013_sitio.png  used on input line 582.
 (pdftex.def)             Requested size: 212.56328pt x 99.03961pt.
- [23
+ [38
 
  <./imagens/enem_2013_sitio.png>]
 File: imagens/enem_2013_sitio.png Graphic file (type png)
 <use imagens/enem_2013_sitio.png>
-Package pdftex.def Info: imagens/enem_2013_sitio.png  used on input line 370.
+Package pdftex.def Info: imagens/enem_2013_sitio.png  used on input line 605.
 (pdftex.def)             Requested size: 190.76555pt x 88.88338pt.
- [24
+ [39
 
 ]
 \tf@nav=\write6
@@ -1093,13 +1167,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 3F49F626FA7D48B882485BBC70074CEB;776.
  ) 
 Here is how much of TeX's memory you used:
- 23194 strings out of 474222
- 446786 string characters out of 5748734
- 1937975 words of memory out of 5000000
- 44909 multiletter control sequences out of 15000+600000
+ 23282 strings out of 474222
+ 448077 string characters out of 5748734
+ 1935975 words of memory out of 5000000
+ 44967 multiletter control sequences out of 15000+600000
  570862 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,16n,123p,428b,934s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,16n,123p,445b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/tex
@@ -1107,10 +1181,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fon
 ts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-s
 uper/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb></
 usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb>
-Output written on main.pdf (24 pages, 318414 bytes).
+Output written on main.pdf (39 pages, 404621 bytes).
 PDF statistics:
- 376 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
- 264 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 527 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
+ 284 words of extra memory for PDF output out of 10000 (max. 10000000)
 
